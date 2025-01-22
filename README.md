@@ -33,7 +33,7 @@ Diabetes-predictions/
 ├── requirements.txt # List of dependencies (for pip) 
 ├── README.md # Project overview and setup instructions 
 └── .gitignore # Specifies files/folders to ignore in GitHub
-
+```
 
 
 ## Installation
