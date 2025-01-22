@@ -6,8 +6,6 @@ A short description of your project that explains what it does, its purpose, and
 
 ## Project Structure
 
-Diabetes-predictions/ │ ├── data/ # Store data files here │ ├── raw/ # Raw data │ ├── processed/ # Processed data │ └── README.md # Describe the dataset and how to use it │ ├── notebooks/ # Store Jupyter Notebooks here │ └── analysis.ipynb # Example notebook │ ├── metrics/ # Contains output from the prediction model │ ├── feature_importance.csv # Feature importance of the prediction model │ └── prediction.csv # Contains prediction and actual value for comparison │ ├── src/ # Store Python scripts here │ ├── init.py # Makes it a package (optional) │ ├── preprocessing.py # Preprocessing functions │ ├── grid_search.py # Best parameter search │ ├── model.py # Model training script │ └── evaluate_model.py # Evaluate Model script │ ├── requirements.txt # List of dependencies (for pip) ├── README.md # Project overview and setup instructions └── .gitignore # Specifies files/folders to ignore in GitHub
-
 The project is organized as follows:
 
 ```
