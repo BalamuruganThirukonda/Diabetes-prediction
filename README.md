@@ -10,7 +10,7 @@ The project is organized as follows:
 
 Diabetes-predictions/ 
 │ 
-├── data/ # Store data files here 
+├── data/ # Store data files here/ 
 │   ├── raw/ # Raw data 
 │   ├── processed/ # Processed data 
 │   └── README.md # Describe the dataset and how to use it 
