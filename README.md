@@ -104,7 +104,7 @@ To use this project, you need to install the following software and libraries:
 For example:
 ```markdown
 The dataset consists of customer information from an e-commerce platform, with features like age, gender, and transaction history.
-
+```
 # License
 This project is licensed under the MIT License. Feel free to use and modify it with proper attribution.
 
